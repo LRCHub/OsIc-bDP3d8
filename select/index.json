@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "僕が死のうと思ったのは (amazarashi ; 中島美嘉) ／ダズビー COVER",
+  "base_artist": "ダズビー",
+  "createdAt": "2025-12-23T08:44:48.612563Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_僕が死のうと思ったのは_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/02_僕が死のうと思ったのは_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/03_僕が死のうと思ったのは_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/04_僕が死のうと思ったのは_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/05_僕が死のうと思ったのは_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは (曾经我也想过一了百了)",
+      "artist": "中岛美嘉",
+      "has_synced": true,
+      "path": "select/06_僕が死のうと思ったのは_(曾经我也想过一了百了)_中岛美嘉.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/07_僕が死のうと思ったのは_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/08_僕が死のうと思ったのは_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "中島美嘉",
+      "has_synced": true,
+      "path": "select/09_僕が死のうと思ったのは_中島美嘉.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/10_僕が死のうと思ったのは_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/11_僕が死のうと思ったのは_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/12_僕が死のうと思ったのは_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "中岛美嘉",
+      "has_synced": true,
+      "path": "select/13_僕が死のうと思ったのは_中岛美嘉.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/14_僕が死のうと思ったのは_中島_美嘉.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは　Piano & Voice Style",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/15_僕が死のうと思ったのは_Piano_&_Voice_Style_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは - From THE FIRST TAKE",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/16_僕が死のうと思ったのは_-_From_THE_FIRST_TAKE_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは - Boku Ga Shinou To Omottanowa",
+      "artist": "Mika Nakashima",
+      "has_synced": true,
+      "path": "select/17_僕が死のうと思ったのは_-_Boku_Ga_Shinou_To_Omottanowa_Mika_Nakashima.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "僕が死のうと思ったのは(Live at NHK Hall 2016.07.22)",
+      "artist": "中島 美嘉",
+      "has_synced": true,
+      "path": "select/18_僕が死のうと思ったのは(Live_at_NHK_Hall_2016.07.22)_中島_美嘉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕が死のうと思ったのは",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_僕が死のうと思ったのは_ダズビー.txt"
+    }
+  ]
+}
